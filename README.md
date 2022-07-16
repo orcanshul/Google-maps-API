@@ -1,2 +1,17 @@
-# Google-maps-API
-google maps API for Meytier, has New York pinned but can be changed in Index.js
+# Google Maps JavaScript Sample
+
+This sample is generated from @googlemaps/js-samples located at
+https://github.com/googlemaps/js-samples.
+
+## Setup
+
+```sh
+npm i
+npm start  # development
+npm run build  # production
+```
+
+## Feedback
+
+For feedback related to this sample, please open a new issue on
+[GitHub](https://github.com/googlemaps/js-samples/issues).
